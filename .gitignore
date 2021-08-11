@@ -11,4 +11,5 @@ Cargo.lock
 
 
 # Project specific
-**/credentials/
+**/credentials/key
+**/credentials/secret
