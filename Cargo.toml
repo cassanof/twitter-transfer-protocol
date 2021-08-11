@@ -1,0 +1,11 @@
+[package]
+name = "twitter-transfer-protocol"
+version = "0.1.0"
+authors = ["Federico Cassano <federico.cassano@federico.codes>"]
+edition = "2018"
+repository = "https://github.com/elleven11/twitter-transfer-protocol"
+readme = "README.md"
+
+[dependencies]
+egg-mode = "0.16"
+tokio = { version = "0.2.22", features = ["full"] }
